@@ -4,7 +4,7 @@
 #
 Name     : rubygem-powerpack
 Version  : 0.1.1
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/powerpack-0.1.1.gem
 Source0  : https://rubygems.org/downloads/powerpack-0.1.1.gem
 Summary  : No detailed summary available
